@@ -1,0 +1,1 @@
+This repository contains the code written during lecture for CS 362 during Winter term of 2024 at OSU regarding UI-based integration testing with JSDOM and the Node Testing Library. It is based off of Rob Hess's demos from Spring term of 2023.
