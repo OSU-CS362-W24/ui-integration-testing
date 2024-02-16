@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`all interactions work on photoCardList as expected when adding multiple photos to the page 1`] = `
+<ul
+  id="photo-card-list"
+>
+  <li
+    class="photo-card"
+  >
+    <img
+      alt="That's a tasty apple pie!"
+      src="https://hips.hearstapps.com/hmg-prod/images/apple-pie-index-6425bd0363f16.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*"
+    />
+    <p>
+      That's a tasty apple pie!
+    </p>
+  </li>
+  <li
+    class="photo-card"
+  >
+    <img
+      alt="MAN"
+      src="https://i.redd.it/a604rad7j4651.png"
+    />
+    <p>
+      MAN
+    </p>
+  </li>
+</ul>
+`;
